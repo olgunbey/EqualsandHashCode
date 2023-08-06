@@ -1,0 +1,15 @@
+C:\Users\olgun\OneDrive\Masaüstü\Belgelerim\c#\c# dersleri\EqualAndHashCode\EqualAndHashCode\bin\Debug\net7.0\EqualAndHashCode.exe
+C:\Users\olgun\OneDrive\Masaüstü\Belgelerim\c#\c# dersleri\EqualAndHashCode\EqualAndHashCode\bin\Debug\net7.0\EqualAndHashCode.deps.json
+C:\Users\olgun\OneDrive\Masaüstü\Belgelerim\c#\c# dersleri\EqualAndHashCode\EqualAndHashCode\bin\Debug\net7.0\EqualAndHashCode.runtimeconfig.json
+C:\Users\olgun\OneDrive\Masaüstü\Belgelerim\c#\c# dersleri\EqualAndHashCode\EqualAndHashCode\bin\Debug\net7.0\EqualAndHashCode.dll
+C:\Users\olgun\OneDrive\Masaüstü\Belgelerim\c#\c# dersleri\EqualAndHashCode\EqualAndHashCode\bin\Debug\net7.0\EqualAndHashCode.pdb
+C:\Users\olgun\OneDrive\Masaüstü\Belgelerim\c#\c# dersleri\EqualAndHashCode\EqualAndHashCode\obj\Debug\net7.0\EqualAndHashCode.csproj.AssemblyReference.cache
+C:\Users\olgun\OneDrive\Masaüstü\Belgelerim\c#\c# dersleri\EqualAndHashCode\EqualAndHashCode\obj\Debug\net7.0\EqualAndHashCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olgun\OneDrive\Masaüstü\Belgelerim\c#\c# dersleri\EqualAndHashCode\EqualAndHashCode\obj\Debug\net7.0\EqualAndHashCode.AssemblyInfoInputs.cache
+C:\Users\olgun\OneDrive\Masaüstü\Belgelerim\c#\c# dersleri\EqualAndHashCode\EqualAndHashCode\obj\Debug\net7.0\EqualAndHashCode.AssemblyInfo.cs
+C:\Users\olgun\OneDrive\Masaüstü\Belgelerim\c#\c# dersleri\EqualAndHashCode\EqualAndHashCode\obj\Debug\net7.0\EqualAndHashCode.csproj.CoreCompileInputs.cache
+C:\Users\olgun\OneDrive\Masaüstü\Belgelerim\c#\c# dersleri\EqualAndHashCode\EqualAndHashCode\obj\Debug\net7.0\EqualAndHashCode.dll
+C:\Users\olgun\OneDrive\Masaüstü\Belgelerim\c#\c# dersleri\EqualAndHashCode\EqualAndHashCode\obj\Debug\net7.0\refint\EqualAndHashCode.dll
+C:\Users\olgun\OneDrive\Masaüstü\Belgelerim\c#\c# dersleri\EqualAndHashCode\EqualAndHashCode\obj\Debug\net7.0\EqualAndHashCode.pdb
+C:\Users\olgun\OneDrive\Masaüstü\Belgelerim\c#\c# dersleri\EqualAndHashCode\EqualAndHashCode\obj\Debug\net7.0\EqualAndHashCode.genruntimeconfig.cache
+C:\Users\olgun\OneDrive\Masaüstü\Belgelerim\c#\c# dersleri\EqualAndHashCode\EqualAndHashCode\obj\Debug\net7.0\ref\EqualAndHashCode.dll
